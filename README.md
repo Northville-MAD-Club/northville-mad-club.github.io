@@ -1,2 +1,6 @@
 # northville-mad-club.github.io
-Please Work
+NORTHVILLE MOBILE APP DEVELOPERS CLUB WEBSITE
+-HOME
+-ABOUT
+-PROJECTS
+-CONTACT
